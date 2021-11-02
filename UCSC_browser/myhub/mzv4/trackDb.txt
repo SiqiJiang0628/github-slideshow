@@ -1,5 +1,5 @@
 track hichip_B73_H3K27ac_rep1
-bigDataUrl http:192.168.0.104:49672:www.3d.teo.com/49672/B73_H3K27ac_rep1_P2A.interactions_FitHiC_Q0.01.converted.bb  
+bigDataUrl https://github.com/SiqiJiang0628/github-slideshow/blob/master/UCSC_browser/myhub/mzv4/B73_H3K27ac_rep1_P2A.interactions_FitHiC_Q0.01.converted.bb  
 shortLabel hichip_B73_H3K27ac_rep1 
 longLabel hichip_B73_H3K27ac_rep1_loop
 type bigBed
