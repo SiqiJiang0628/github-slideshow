@@ -1,0 +1,5 @@
+hub UCSCHub_teo
+shortLabel hichip_TEO
+longLabel UCSC hichip_TEO_genome_browser
+genomesFile genomes.txt
+email 2050919016@qq.com

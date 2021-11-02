@@ -1,0 +1,2 @@
+genome zeaMay_b73_v4
+trackDb mzv4/trackDb.txt
